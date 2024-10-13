@@ -14,7 +14,7 @@ header.innerHTML = `  <div class="contact-details">
         <a href="http://www.oursdc.com"><i class="fa-solid fa-globe"></i></a>
     </div>
     <div class="logo">
-        <img src="${logo}" onclick="location.href = 'http://localhost:5174/'" alt="Not responding">
+        <img src="${logo}" onclick="location.href = 'https://nh-nahid.github.io/sdc-vite/'" alt="Not responding">
         <p>সাপ্লাই এন্ড ডিস্ট্রিবিউশন কর্পোরেশন </p>
     </div>
     <div class="social-icon">
