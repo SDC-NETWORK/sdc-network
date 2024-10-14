@@ -1,7 +1,7 @@
 import './style.css'
 import logo from '/SDC Logo.png'
 
-// query
+// query selector
 
 const title = document.querySelector('title')
 title.innerText = 'SDC - Database'
